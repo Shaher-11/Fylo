@@ -61,8 +61,10 @@ p {
 
 .my-btn {
     background-color: hsl(198, 60%, 50%);
-    width: 12%;
+    width: 20%;
     border-radius: 15px;
+    color: white;
+    border: 1px solid  hsl(198, 60%, 50%);
 }
 
 .see {
@@ -92,4 +94,23 @@ p {
 .text {
     padding-top: 0.5rem;
     line-height: 0.2rem;
+}
+
+.access {
+    background-color: hsl(217, 28%, 15%);
+    width: 50%;
+    margin: 0 auto;
+    padding: 2rem 0 ;
+}
+
+.access-btn {
+    background-color: hsl(198, 60%, 50%);
+    width: 22%;
+    border-radius: 20px;
+    color: white;
+    border: 1px solid  hsl(198, 60%, 50%);
+}
+
+input {
+    border-radius: 25px;
 }
