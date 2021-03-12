@@ -22,3 +22,18 @@ ul {
     list-style: none;
 }
 
+/*
+    ==============================================
+                ****** Global styles ******
+    ==============================================
+*/
+
+ul {
+    background-color: hsl(217, 28%, 15%);
+    justify-content: space-between;
+}
+
+.my-item {
+    color: white;
+    text-decoration: none;
+}
