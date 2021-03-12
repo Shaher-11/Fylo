@@ -24,12 +24,14 @@ ul {
 
 /*
     ==============================================
-                ****** Global styles ******
+                ****** NAVBAR STYLE ******
     ==============================================
 */
 
+body {
+    background-color: hsl(218, 28%, 13%) !important;
+}
 ul {
-    background-color: hsl(217, 28%, 15%);
     justify-content: space-between;
 }
 
@@ -37,4 +39,25 @@ ul {
     color: white;
     text-decoration: none;
     font-size: 1.5rem;
+}
+
+/*
+    ==============================================
+     ****** GETTING STARTED SECTION STYLES ******
+    ==============================================
+*/
+
+.start {
+    color: white;
+    background-image: url(images/bg-curvy-desktop.svg);
+}
+
+.start p {
+    font-size: 0.8rem;
+}
+
+.my-btn {
+    background-color: hsl(198, 60%, 50%);
+    width: 20%;
+    border-radius: 15px;
 }
