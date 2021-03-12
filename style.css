@@ -43,7 +43,7 @@ ul {
 
 /*
     ==============================================
-     ****** GETTING STARTED AND MIDDLE SECTIONS STYLES ******
+     ****** GETTING STARTED AND FEATURES SECTIONS STYLES ******
     ==============================================
 */
 
@@ -63,10 +63,6 @@ p {
     background-color: hsl(198, 60%, 50%);
     width: 20%;
     border-radius: 15px;
-}
-
-.mid {
-    margin-top: 9rem;
 }
 
 /*
