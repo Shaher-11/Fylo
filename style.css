@@ -148,7 +148,22 @@ footer {
 
 /*
     ==============================================
-     ****** MAIN PAGE STYLE ******
+     ****** MEDIA QUERIES FOR******
     ==============================================
 */
 
+@media only screen and (min-width: 768px) {
+    .words {
+        width: 140%;
+        font-size: 0.5rem;
+        padding-right: 2rem;
+    }
+
+    .access-btn {
+        width: 40%;
+    }
+
+    .contact {
+        width: 2rem;
+    }
+}
