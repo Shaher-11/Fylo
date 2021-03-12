@@ -114,3 +114,8 @@ p {
 input {
     border-radius: 25px;
 }
+
+footer {
+    background-color:  hsl(216, 53%, 9%);
+}
+
