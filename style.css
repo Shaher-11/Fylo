@@ -126,3 +126,29 @@ footer {
     padding-right: 1em;
 }
 
+.links {
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+.icon {
+    padding: 1.5rem;
+    color: white;
+}
+
+.icon:hover {
+    color:  hsl(198, 60%, 50%);
+}
+
+.names {
+    color:  hsl(198, 60%, 50%);
+    text-decoration: none;
+}
+
+/*
+    ==============================================
+     ****** MAIN PAGE STYLE ******
+    ==============================================
+*/
+
