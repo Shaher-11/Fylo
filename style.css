@@ -43,16 +43,19 @@ ul {
 
 /*
     ==============================================
-     ****** GETTING STARTED SECTION STYLES ******
+     ****** GETTING STARTED AND MIDDLE SECTIONS STYLES ******
     ==============================================
 */
 
-.start {
-    color: white;
+main {
     background-image: url(images/bg-curvy-desktop.svg);
 }
 
-.start p {
+.start {
+    color: white;
+}
+
+p {
     font-size: 0.8rem;
 }
 
@@ -61,3 +64,13 @@ ul {
     width: 20%;
     border-radius: 15px;
 }
+
+.mid {
+    margin-top: 9rem;
+}
+
+/*
+    ==============================================
+     ****** GETTING STARTED SECTION STYLES ******
+    ==============================================
+*/
