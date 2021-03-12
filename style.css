@@ -117,5 +117,12 @@ input {
 
 footer {
     background-color:  hsl(216, 53%, 9%);
+    padding-bottom: 2rem;
+}
+
+.contact {
+    width: 15%;
+    height: 15%;
+    padding-right: 1em;
 }
 
